@@ -1,0 +1,2 @@
+# VisaControl
+Control waveform generator
